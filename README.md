@@ -35,4 +35,4 @@ Stop services and remove containers
 docker compose -f compose-local.yml down -v
 ```
 
-Both services will be availible at http://localhost:**_PORT_**
+Both services will be availible at http://localhost:<em>PORT</em>
